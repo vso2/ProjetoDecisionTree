@@ -1,4 +1,4 @@
-# Projeto Decision Tree
+# Projeto Titanic
 
 Projeto de árvores de decisão da disciplina de sistemas inteligentes.
 
